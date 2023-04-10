@@ -1,11 +1,50 @@
-.cards {
+.cardsSubmission {
   min-height: 130px;
   width: 200px;
-  background: red;
+  background: #fe6c91;
   margin: 17px;
   border-radius: 8px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
+}
+.cardsInterview {
+  min-height: 130px;
+  width: 200px;
+  background: #cf9304;
+  margin: 17px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardsOffer {
+  min-height: 130px;
+  width: 200px;
+  background: #59b304;
+  margin: 17px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardsBA {
+  min-height: 130px;
+  width: 200px;
+  background: #02c19f;
+  margin: 17px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardsDev {
+  min-height: 130px;
+  width: 200px;
+  background: #09aef8;
+  margin: 17px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardsOn {
+  min-height: 130px;
+  width: 200px;
+  background: #f87c7c;
+  margin: 17px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .cards .icons {
   height: 100%;
@@ -18,7 +57,10 @@
   margin: 0 20px;
   font-weight: 900;
   font-size: 14px;
-
+}
+.card .color{
+  color: white;
+  background-color: white;
 }
 .cards .content .card-value{
   font-size: 18px;
