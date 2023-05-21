@@ -1,0 +1,23 @@
+.box{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    width: 105px;
+    background-color: white;
+    border: 1px solid #e2e2e2;
+    margin-left: 20px;
+    margin-top: 40px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 20px #d9d9d9;
+}
+.icon-dd{
+color: #999A9B;
+margin-left: 20px;
+}
+.text-dd{
+color: #999A9B;
+margin-left: 5px;
+font-size: 12px;
+font-weight: bold;
+}
+

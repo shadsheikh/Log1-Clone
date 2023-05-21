@@ -1,0 +1,28 @@
+.container-opt{
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    gap: 4px;
+}
+.row-opt{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.icon-opt-u{
+    color: #848587;
+}
+.text-opt-u{
+    color: #848587;
+    font-size: 16px;
+    font-weight: bold;
+}
+.icon-opt-s{
+    color: #23305E;
+}
+.text-opt-s{
+    color: #23305E;
+    font-size: 16px;
+    font-weight: bold;
+}

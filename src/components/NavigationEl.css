@@ -1,0 +1,14 @@
+.container-nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    gap: 4px;
+}
+.icon-nav{
+    color: #848587;
+}
+.text-nav{
+    color: #848587;
+    font-size: 14px;
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.header {
+background-color: #23305E;
+}
+
+.container {
+display: flex;
+justify-content: space-between;
+}
+
+.right {
+display: flex;
+align-items: center;
+gap: 10px;
+margin-right: 20px;
+}
+
+.icon{
+    color: white;
+    margin-right: 30px;
+}
+.text{
+    color: white;
+    font-weight: bold;
+}
+
